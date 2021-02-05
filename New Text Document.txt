@@ -1,0 +1,2 @@
+1: Turn off Antivirous/Window Security
+2: Then install
